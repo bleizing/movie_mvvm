@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DimasCicilTest</string>
+    <string name="title_movie">%1$s (%2$s)</string>
+    <string name="title">Title : %1$s</string>
+    <string name="year">Year : %1$s</string>
+    <string name="director">Director : %1$s</string>
+    <string name="release">Release : %1$s</string>
+    <string name="genre">Genre : %1$s</string>
+    <string name="runtime">Runtime : %1$s</string>
+    <string name="writer">Write : %1$s</string>
+    <string name="actor">Actors : %1$s</string>
+    <string name="rated">Rated : %1$s</string>
+    <string name="type">Type : %1$s</string>
+    <string name="production">Production : %1$s</string>
+    <string name="website">Website : %1$s</string>
+    <string name="plot">Plot : %1$s</string>
+</resources>
